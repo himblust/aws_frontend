@@ -46,7 +46,7 @@ app.get("/", async (req, res) => {
         </head>
         <body>
           <div class="container">
-            <h2>States & UTs of India</h2>
+            <h2>States & UTs of India From 2</h2>
             <ul>${listItems}</ul>
           </div>
         </body>
